@@ -1,0 +1,17 @@
+.results-container{
+    background-color:#DA2F47;    
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    flex-direction: column;
+}
+
+.ins-head{
+    color:white;
+}
+
+.url{
+    color:white;
+}
